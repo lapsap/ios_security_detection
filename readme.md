@@ -5,7 +5,7 @@ Code is inside ViewController.swift.
 There are 2 Boolean functions ( debug_detect() , jb_dectect() )
 
 ### Jailbreak Detection Methods
-1. Check if file or directory exits from our list
+1. Check if file or directory exists from our list
 2. Try to write to private 
 3. try to connect to cydia url
 
